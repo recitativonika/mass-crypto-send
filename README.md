@@ -6,7 +6,7 @@
 
 • Security Risks: This script involves handling private keys, which should never be exposed or hard-coded in your scripts. Always use secure methods to manage your keys.
 
-• Test on a Testnet: Before using this script on the mainnet, make sure to thoroughly test it on a testnet (like Ropsten for Ethereum or Testnet for BSC) to avoid any loss of funds.
+• Test on a Testnet: Before using this script on the mainnet, make sure to thoroughly test it on a testnet (like Sepolia for Ethereum or Testnet for BSC) to avoid any loss of funds.
 
 
 ## Installation & how to run?
